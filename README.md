@@ -1,2 +1,2 @@
 # Scikit-Learn
-Este repositorio contiene ejemplos utilizando [scikit-learn](https://scikit-learn.org/stable/)
+Este repositorio contiene ejemplos de [scikit-learn](https://scikit-learn.org/stable/)
