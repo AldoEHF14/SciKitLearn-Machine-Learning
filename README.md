@@ -1,10 +1,6 @@
 # 🤖 Scikit-Learn
 
-Este portafolio es muestran práctica y experimentación con **[scikit-learn](https://scikit-learn.org/)**, una de las librerías más populares de *machine learning* en Python.
-
----
-
-## 📚 Contenido
+Este portafolio es muestran práctica y pruebas con **[scikit-learn](https://scikit-learn.org/)**, una de las librerías más populares de *machine learning* en Python.
 
 En este repositorio encontrarás:
 
@@ -13,13 +9,5 @@ En este repositorio encontrarás:
 * Experimentos con distintos **modelos de ML** (Regresión Lineal, Árboles de Decisión, Random Forest, SVM, etc.).
 * Evaluación de modelos con métricas como `accuracy`, `MAE`, `MSE`, `R²`.
 * Pruebas personales con datasets reales y sintéticos.
+* Tecnologías utilizadas (Python 3,scikit-learn,NumPy,Pandas,Matplotlib / Seaborn )
 
----
-
-## 🛠️ Tecnologías utilizadas
-
-* **Python 3.x**
-* **scikit-learn**
-* **NumPy**
-* **Pandas**
-* **Matplotlib / Seaborn** (para visualización)
